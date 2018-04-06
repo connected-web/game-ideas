@@ -1,2 +1,5 @@
-# game-ideas
-Game ideas project
+# Game Ideas
+
+Game ideas project.
+
+
